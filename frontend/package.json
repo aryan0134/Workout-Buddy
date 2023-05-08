@@ -1,5 +1,5 @@
 {
-  "proxy": "workout-buddy-backend-drd9rqcoa-aryan0134.vercel.app",
+  "proxy": "https://workout-buddy-backend-nine.vercel.app/",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
